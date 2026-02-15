@@ -1,0 +1,25 @@
+body {
+    background-color: pink;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-size: 26px;
+}
+
+header {
+    background-color: brown;
+}
+
+article header {
+    background-color: rgb(36, 80, 36);
+    color: yellow;
+}
+
+#whatsapp-button{
+    background-color: green;
+    color: white;
+}
+
+.botao-saber-mais{
+    background-color: darkgoldenrod;
+}
+

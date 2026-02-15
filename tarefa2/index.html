@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sporito</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+        
+        Sporito
+    <a href="/sobre">Sobre a Loja</a>
+    
+    </header>
+    
+    <main style="margin-left: 30%; margin-right: 30%; font-family: Roboto">
+
+        <article>
+
+            <h1> Sporito </h1>
+
+            <p>  A Sporito é a tua loja de material desportivo, focada em qualidade, conforto e desempenho.
+            Aqui encontras equipamento para treino, competição e lazer, sempre selecionado para te ajudar
+            a chegar ao teu melhor nível. Explora a nossa coleção e descobre o que pode elevar o teu jogo.</p>
+
+            <img width="660" src="https://sportscenter.pt/fotosn/vv2.jpg" alt="Vista da loja Sporito com exposição de produtos desportivos">
+
+            <p style="font-size: 28px; text-align: center; background-color: red;">Tudo o que o desporto precisa, encontra aqui!</p>
+
+            <br>
+            <br>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Produto</th>
+                        <th>Descrição</th>
+                        <th>Preço</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Ténis de Corrida</td>
+                        <td>Leves e confortáveis, com sola antiderrapante e bom amortecimento para treinos e corridas diárias.</td>
+                        <td style="background-color: green;">49,99€</td>
+                    </tr>
+                    <tr>
+                        <td>Mala de Desporto</td>
+                        <td>Espaçosa e resistente à água, ideal para transportar roupa, calçado e acessórios com conforto.</td>
+                        <td style="background-color: green;">24,99€</td>
+                    </tr>
+                    <tr>
+                        <td>Garrafa Térmica 750ml</td>
+                        <td>Mantém líquidos frios ou quentes por horas, com tampa segura e design ergonómico para fácil transporte.</td>
+                        <td style="background-color: green;">12,99€</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <br>
+
+            <hr>
+            
+            <form action="/enviar-pedido" method="post">
+
+                <h2>Simular Pedido</h2>
+
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" required>
+                
+                <br>
+                
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <br>
+
+                <label for="produto">Produto:</label>
+                <input type="text" id="produto" name="produto" required>
+
+                <br>
+
+                <label for="quantidade">Quantidade:</label>
+                <input type="number" id="quantidade" name="quantidade" required>
+
+                <br>
+
+                <button type="submit">Enviar Pedido</button>
+
+            </form>
+
+        </article>
+
+    </main>
+
+    <br>
+    <hr>
+
+    <footer>
+
+        <p>Contactos: <br>
+            245972834 <br>
+            sporito@sporito.pt
+        </p>
+        
+        <hr>
+
+        <p>Direitos de autoria reservados a Ricardo.</p>
+
+    </footer>
+
+</body>
+</html>
