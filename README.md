@@ -1,4 +1,4 @@
-# Ricardo Costa | full Stack Development Journey 🚀
+# Ricardo Costa | Full Stack Development Journey 🚀
 
 Welcome to my development log. This month, I am mastering the foundations of web building, preparing for high-performance application development.
 
