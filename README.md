@@ -1,16 +1,39 @@
-## Hi there 👋
+# Ricardo Costa | Frontend Development Journey 🚀
 
-<!--
-**Ricostalmeida42/ricostalmeida42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my development log. This month, I am mastering the foundations of web building, preparing for high-performance application development.
 
-Here are some ideas to get you started:
+## 🎯 February Focus: The Frontend Sprint
+- **HTML5 & CSS3:** Semantic structure, modern layouts (Flexbox/Grid), and responsiveness.
+- **Goal:** Building a solid UI foundation with "Brio".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Future Stack (Next Steps)
+- **JavaScript (ES6+):** The engine of interactivity.
+- **React:** Building component-based modern interfaces.
+
+## 💻 Tech Stack
+
+### 🚀 Currently Learning
+- **HTML5** (Semantics & Accessibility)
+- **CSS3** (Flexbox, Grid, Responsive Design)
+
+### 🛠️ Tools & Environments
+- **Version Control:** Git & GitHub
+- **IDE:** VS Code
+- **Operating System:** Windows
+
+### ⏳ Next to Master
+- **JavaScript** (ES6+)
+- **React.js** (Component-based UI)
+
+## 📚 Study Progress
+- [x] Environment Setup & GitHub Workflow
+- [x] HTML5 Semantic Tags
+- [x] CSS Selectors & Box Model
+- [ ] Flexbox & Grid Layouts
+- [ ] Responsive Design (Mobile First)
+- [ ] JavaScript Fundamentals (Upcoming)
+- [ ] React Basics (Upcoming)
+
+
+---
+> "Focus on the process, and the results will follow."
