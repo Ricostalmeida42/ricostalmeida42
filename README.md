@@ -15,7 +15,7 @@ team, weekly planning, and automated imports from external sources.
 `~19,000 lines` · `16 data models` · `role-based auth` · `numbered migrations with
 automatic pre-migration backups`
 
-→ *(public version in preparation)*
+→ **[Ricostalmeida42/scouting-platform](https://github.com/Ricostalmeida42/scouting-platform)**
 
 ### What I work with
 
