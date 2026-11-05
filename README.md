@@ -2,7 +2,7 @@
 
 **Football scout. I build the tools I use.**
 
-This is where I put the software I build for my own scouting work — tools I use in a
+This is where I put the software I build for my own scouting work. Tools I use in a
 Portuguese club, not demos.
 
 ### Scouting platform
@@ -19,12 +19,12 @@ automatic pre-migration backups`
 
 ### What I work with
 
-**Scouting** — match observation, opposition analysis, recruitment pipelines, Wyscout,
+**Scouting**: match observation, opposition analysis, recruitment pipelines, Wyscout,
 Hudl InStat
 
-**Code** — JavaScript, React, Node, Express, MongoDB, REST APIs
+**Code**: JavaScript, React, Node, Express, MongoDB, REST APIs
 
-**Football data** — StatsBomb event data, expected goals, scouting radars *(learning)*
+**Football data**: StatsBomb event data, expected goals, scouting radars *(learning)*
 
 ### Background
 
